@@ -1,1 +1,1 @@
-# djano_wheather_project
+# django_wheather_project
